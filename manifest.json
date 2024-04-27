@@ -1,0 +1,11 @@
+{
+    "name": "Mukbang Extension",
+    "description": "Access information on restaurants",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "mukbang.html",
+      "default_icon": "yummy_emoji.png",
+      "js": "src/main.js"
+    }
+  }
